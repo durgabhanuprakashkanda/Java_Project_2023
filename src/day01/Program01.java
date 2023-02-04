@@ -1,4 +1,4 @@
-package Test;
+package day01;
 
 public class Program01 {
 
