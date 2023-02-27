@@ -7,6 +7,7 @@ public class Program05 {
 	public static void main(String[] args) {
 		// Armstrong number
 		Scanner x=new Scanner(System.in);
+		System.out.println("Enter a number");
 		int n=x.nextInt();
 		x.close();
 		int temp=n;
@@ -25,9 +26,9 @@ public class Program05 {
 		}
 
 		if(n==sum) {
-			System.out.println(n+" is a Armstrong number");
+			System.out.println(n+" is an Armstrong number");
 		}
-		else System.out.println(n+" is not a Armstrong number");
+		else System.out.println(n+" is not an Armstrong number");
 		
 	}
 
