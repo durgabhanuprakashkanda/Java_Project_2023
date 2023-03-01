@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Program06 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Octal to binary
 		Scanner a=new Scanner(System.in);
 		System.out.println("enter the Octal number");
 		int x=a.nextInt();
